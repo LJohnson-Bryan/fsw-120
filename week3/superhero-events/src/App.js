@@ -5,12 +5,9 @@ import './styles.css';
 
 class App extends React.Component{
 
-  state = {
-    data: data
-  }
-
   render() {
-    const superHeroList = this.state.data.map(hero => {
+    const heroData = data;
+    const superHeroList = heroData.map(hero => {
       return(
         <SuperHero name={hero.name} img={hero.imageName} catchPhrase={hero.catchPhrase} show={hero.show} />
       );

@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
+}
+
+.errorMessage {
+    background-color: firebrick;
+    color: white;
+    text-align: center;
+    padding: 22px 0;
+    font-size: 18px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat( 2, minmax(210px, 1fr) );
+    gap: 15px;
+}
+
+.grid > div > p {
+    margin-left: 10%;
+}
+
+.response {
+    display: block;
+    margin: 10px 5%;
+    padding: 5px;
+    border: 3px solid gray;
+}
+
+button {
+    outline: none;
+    padding: 3px 16px;
+    border-radius: 7px;
+    border: 3px solid gray;
+    margin-top: 15px;
+}
+
+.tc {
+    text-align: center;
+}
+
+textarea.response {
+    outline: none;
+    width: 98%;
+    min-width: 98%;
+    max-width: 98%;
+    margin-left: 0;
+    max-height: 500px;
+    min-height: 150px;
+}
+
+form {
+    padding: 32px;
+}
+
+input {
+    border: 2px solid gray;
+    border-radius: 3px;
+    outline: none;
+    padding: 2px 3px;
+    display: block;
+    width: 80%;
+    margin-left: 5%;
+}
+
+.card-outline {
+    border: 3px solid gray;
+    border-radius: 13px;
+}
+
+h2 {
+    margin: 0;
+    /* background-color: gray; */
+    border-radius: 9px;
+    color: white;
+    padding: 7px 10px;
+}
+
+/* Container Styles */
+@media (min-width: 576px){
+    .container {
+    max-width: 540px;
+}}
+
+@media (min-width: 768px){
+    .container {
+    max-width: 720px;
+}}
+
+@media (min-width: 992px){
+    .container {
+    max-width: 960px;
+}}
+
+@media (min-width: 1200px){
+    .container {
+    max-width: 1040px;
+}}
+
+@media (max-width: 576px) {
+    .container {
+        max-width: 90vw;
+    }
+}
+
+.container {
+    width: 100%;
+    padding: 25px 15px;
+    margin-right: auto;
+    margin-left: auto;
+}

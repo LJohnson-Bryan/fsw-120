@@ -1,0 +1,16 @@
+nav {
+    position: absolute;
+    width: 100%;
+    margin-top: 14px;
+    text-align: center;
+}
+
+nav > a {
+    text-decoration: none;
+    color: white;
+    padding: 14px 16px;
+}
+
+nav > a:hover {
+    color: rgb(214, 214, 214);
+}

@@ -1,0 +1,26 @@
+.tweet-form {
+    width: 95%;
+    margin-bottom: 42px;
+    margin-left: 0;
+}
+
+.tweet-form > button {
+    max-width: 250px;
+    display: block;
+    margin: 10px auto;
+}
+
+.tweet-input {
+    margin-bottom: 0;
+    min-width: 85%;
+    display: block;
+    margin: 10px auto;
+}
+
+.ml-15p {
+    margin-left: 15px;
+}
+
+.inline-block.ml-15p {
+    width: 95%;
+}

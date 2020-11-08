@@ -1,0 +1,19 @@
+hr {
+    border-top: 1px solid rgba(0,0,0,0.3);
+}
+
+.whoToFollow {
+    margin-bottom: 0;
+    padding-left: 5px;
+    font-size: 25px;
+    color: #102A43;
+}
+
+footer {
+    margin-top: 10px;
+}
+
+footer a {
+    color: #829AB1;
+    margin-right: 14px;
+}

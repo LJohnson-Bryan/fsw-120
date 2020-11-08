@@ -1,0 +1,34 @@
+form {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 348px;
+}
+
+input {
+    width: 100%;
+    outline: none;
+    padding: 7px 4px;
+    transition: all 0.3s ease;
+    border: none;
+    border-bottom: 2px solid #62B0E8;
+    margin-bottom: 35px;
+}
+
+input::placeholder {
+    color: #829AB1;
+}
+
+label {
+    margin-left: 3px;
+    background-color: white;
+    color: #486581;
+}
+/* Note to self: Want to change the bottom border color when the form is selected. 
+maybe even play an animation of somekind to load it up? */
+
+/* Remember to change blue to darker*/
+input:focus {
+    border-bottom: 2px solid  #2680C2 !important;
+    transition: all 0.3s ease;
+}

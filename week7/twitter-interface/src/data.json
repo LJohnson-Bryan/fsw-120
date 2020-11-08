@@ -1,0 +1,70 @@
+{
+    "data": {
+        "tweets": [
+            {
+            "author": "@krazyKandyGirl",
+            "content": "Skittles are the best candy! Change my mind!",
+            "imageURL": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+            "likes": 259,
+            "date": "Nov 3",
+            "id": 1
+            },
+            {
+                "author": "@SethWinterGreen",
+                "content": "I enjoy long walks on the beach!",
+                "imageURL": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=635&q=80",
+                "likes": 1037,
+                "date": "Nov 2",
+                "id": 2
+            },
+            {
+                "author": "@johnDoes",
+                "content": "Hello world, I love programming! Don't forget to vote!",
+                "imageURL": "https://images.unsplash.com/photo-1519058082700-08a0b56da9b4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+                "likes": 15,
+                "date": "Nov 4",
+                "id": 3
+            },
+            {
+                "author": "@FredFamily20",
+                "content": "Check out this amazing PC...",
+                "imageURL": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+                "likes": 158,
+                "date": "Nov 1",
+                "id": 4
+            },
+            {
+                "author": "@SethWinterGreen",
+                "content": "Man, the sky is pretty today.",
+                "imageURL": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=635&q=80",
+                "likes": 1037,
+                "date": "Nov 2",
+                "id": 5
+            },
+            {
+                "author": "@krazyKandyGirl",
+                "content": "Wow, all the candy in the world!!!",
+                "imageURL": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+                "likes": 1037,
+                "date": "Nov 2",
+                "id": 6
+            },
+            {
+                "author": "@theOneHuckle",
+                "content": "Wow, remember that one time?",
+                "imageURL": "https://images.unsplash.com/photo-1557002665-c552e1832483?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+                "likes": 1037,
+                "date": "Nov 2",
+                "id": 7
+            },
+            {
+                "author": "@bettingOne1",
+                "content": "Just got my nails done at the salon! They look, amazing..",
+                "imageURL": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+                "likes": 1037,
+                "date": "Nov 2",
+                "id": 8
+            }
+        ]
+    }
+}
